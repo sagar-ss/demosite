@@ -1,0 +1,39 @@
+header{
+
+    display: flex;
+    justify-content:space-between;
+}
+
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    font-size:xx-large;
+    list-style-type: none;
+}
+
+nav{
+    width: 60vw;
+   
+}
+li:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.bigImage{
+   width: 95vw;
+   margin-left: 1rem;
+}
+
+.container{
+    text-align: center;
+    display: flex;
+}
+.container p{
+    font-size: x-large;
+}
+.container h1{
+    font-size-adjust: 0;
+}
+
+
